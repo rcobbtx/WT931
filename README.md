@@ -1,7 +1,8 @@
-# BWT901CL
-Tutorial including manual, datasheet, APK for Android APP, sample code for MCU integration, etc.
+# WT931
+Developed tutorial: providing manual, datasheet, free software for Windows compu, and sample code for MCU integration including 51 serial, STM32, Arduino, Matlab, Raspberry Pi, communication protocol for project development
 
 RELEASE NOTES
+
 =============
 WITMOTION Turotial File 
 
@@ -11,22 +12,23 @@ Release date:    2020-07-20
 This package contains all neccessary file for set-up of the sensor. 
 
 Unzip the .zip file and you will have a directory containing the files.
+
 -----------
 
 Document download link:
 
-Github:
-https://github.com/WITMOTION
+Github 
+https://github.com/WITMOTION/WT931
 
 Google Drive: 
-https://drive.google.com/drive/folders/1I6sBC-8Q3_vtY-GrFDZbWJZJFk7UnNfO
+https://drive.google.com/open?id=1V7vE1aCca5QXJfwsxnFihDbj0dZtanuF
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-BWT901CL Playlist: 
-https://www.youtube.com/watch?v=W7GpNKMBeqg&list=PL43tdDrVL_VAz6b3HJjr67kCQiqgV9b27
+WT931 Playlist: 
+https://www.youtube.com/playlist?list=PL43tdDrVL_VDDciadEelCtvTh0dZjgHtS
 
 -----------
 After-sale Service& Technical Support: 
